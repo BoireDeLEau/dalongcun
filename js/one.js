@@ -1,6 +1,6 @@
 // JavaScript Document
 window.onload=function(){
-	alert("进入首页请单击左上角“心藏之旅”!");
+	alert("进入首页请单击左上角“大龙村”!");
 }
 //标题栏下拉菜单
 function change(myid,mode){
